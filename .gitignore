@@ -1,0 +1,68 @@
+# OS
+2
+.DS_Store
+3
+Thumbs.db
+4
+desktop.ini
+5
+6
+# Editors / IDE
+7
+.vscode/
+8
+.idea/
+9
+*.swp
+10
+*.swo
+11
+*~
+12
+13
+# Logs / temp
+14
+*.log
+15
+*.tmp
+16
+*.bak
+17
+18
+# Python (for any future tooling)
+19
+__pycache__/
+20
+*.pyc
+21
+.pytest_cache/
+22
+.mypy_cache/
+23
+.ruff_cache/
+24
+venv/
+25
+.env
+26
+27
+# Node (for any future tooling)
+28
+node_modules/
+29
+npm-debug.log*
+30
+yarn-debug.log*
+31
+yarn-error.log*
+32
+33
+# Agent internal state (never commit)
+34
+.opencode/
+35
+memory/
+36
+sessions/
+37
+workspace/
